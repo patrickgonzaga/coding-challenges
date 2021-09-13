@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketKata", "SuperMarketKata\SupermarketKata.csproj", "{87572597-8310-482C-BCA7-7F4BC130DCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSupermarketKata", "UnitTestSuperMarketKata\UnitTestSupermarketKata.csproj", "{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8379729C-5106-4817-9D99-073079F6699E}
+	EndGlobalSection
+EndGlobal

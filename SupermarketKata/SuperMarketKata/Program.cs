@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 /*
 Program Name: SupermarketKata
+Date: September 14, 2021
 Using either C# or F# and a TDD approach, spent no more than two hours on your solution. There should be an emphasis on clean coding principles.
 
 Requirements

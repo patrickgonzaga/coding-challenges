@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 //source:  https://github.com/Optima-Energy-Systems/coding-challenges
 
 /* Program Name: Robot Wars V 1.0.0
- * Date: Sept 13, 2021
+ * Date: Sept 14, 2021
  * Requirements:
  *  A fleet of hand built robots are due to engage in battle for the annual “Robot Wars” competition. Each robot will be placed within a rectangular battle arena and will navigate their way around the arena using a built in computer system.
  *  A robot’s location and heading is represented by a combination of x and y co-ordinates and a letter representing one of the four cardinal compass points. The arena is divided up into a grid to simplify navigation. An example position might be 0, 0, N which means the robot is in the bottom left corner and facing North.
